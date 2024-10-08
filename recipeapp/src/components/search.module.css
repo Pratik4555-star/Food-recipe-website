@@ -1,0 +1,17 @@
+.searchCon {
+    position: relative;
+    margin: 20px auto;
+    width: 300px;
+}
+
+.search {
+    border-radius: 8px;
+    border: none;
+    border-bottom: solid 1px #281d339b;
+    background: transparent;
+    padding: 10px 20px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+}
